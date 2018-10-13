@@ -1,0 +1,17 @@
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.csprojAssemblyReference.cache
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.csproj.CoreCompileInputs.cache
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.RazorAssemblyInfo.cache
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.RazorAssemblyInfo.cs
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.AssemblyInfoInputs.cache
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.AssemblyInfo.cs
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\bin\Debug\netcoreapp2.1\MBTWebApp.deps.json
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\bin\Debug\netcoreapp2.1\MBTWebApp.runtimeconfig.json
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\bin\Debug\netcoreapp2.1\MBTWebApp.runtimeconfig.dev.json
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\bin\Debug\netcoreapp2.1\MBTWebApp.dll
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.TagHelpers.input.cache
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.TagHelpers.output.cache
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.RazorCoreGenerate.cache
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.RazorTargetAssemblyInfo.cache
+c:\users\rahul\source\repos\MBTWebApp\MBTWebApp\obj\Debug\netcoreapp2.1\MBTWebApp.RazorTargetAssemblyInfo.cs
